@@ -1,0 +1,23 @@
+{
+  "name": "task-nodejs-projec",
+  "version": "1.0.0",
+  "description": "+ Нас будет интересовать два варианта использования (поскольку через шаблон Webpack всё будет работать как обычно)\r + в Node.js\r + в браузере через тег script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikan152435/Task-nodejs-projec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikan152435/Task-nodejs-projec/issues"
+  },
+  "homepage": "https://github.com/Nikan152435/Task-nodejs-projec#readme",
+  "dependencies": {
+    "@nikan152435/task-ajs": "^1.0.0"
+  }
+}
